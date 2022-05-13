@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Joshua Ramos</h1>
-<h3 align="center">Student at CSULB🌟.</h3>
+<h3 align="center">CSULB Undergraduate🌟.</h3>
 
 <br>
 
